@@ -1,0 +1,27 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.Anchor
+{
+font-size: 18px;
+border: black 3px dotted;
+border-radius: 20px;
+background-color: white;
+width: 140px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+}
+
